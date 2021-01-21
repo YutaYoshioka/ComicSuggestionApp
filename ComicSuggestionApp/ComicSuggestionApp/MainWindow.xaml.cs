@@ -27,12 +27,12 @@ namespace ComicSuggestionApp
 
 			if (!LoadDatabase())
 			{
-				MessageBox.Show( "データベースの読み込みに失敗しました。");
+				MessageBox.Show("データベースの読み込みに失敗しました。");
 
 				Application.Current.Shutdown();
 			}
 
-			DBStatus.Content = "現在のデータベース登録数: " + comicDB.Length;
+			DBStatus.Content = "現在のデータベース登録数: " + comicDB.Length + "作品";
 		}
 
 		/// <summary>

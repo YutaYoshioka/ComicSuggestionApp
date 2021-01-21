@@ -1,0 +1,14 @@
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\bin\Debug\ComicSuggestionApp.exe.config
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\bin\Debug\ComicSuggestionApp.exe
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\bin\Debug\ComicSuggestionApp.pdb
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp.csprojAssemblyReference.cache
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\MainWindow.g.cs
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\App.g.cs
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp_MarkupCompile.cache
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp_MarkupCompile.lref
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\MainWindow.baml
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp.g.resources
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp.Properties.Resources.resources
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp.csproj.GenerateResource.cache
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp.exe
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp.pdb

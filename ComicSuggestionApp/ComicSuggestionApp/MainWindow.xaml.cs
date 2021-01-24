@@ -65,7 +65,7 @@ namespace ComicSuggestionApp
 		private void suggestButton_Click(object sender, RoutedEventArgs e)
 		{
 			var inputText = inputTextBox.Text;
-
+			resultLabel.Content = "";
 			var keywordWeight = new double[20] {1, 0.8, 0.64, 0.512, 0.4096, 0.32768, 0.262144, 0.2097152, 0.16777216, 0.134217728, 0.107374182, 0.085899346, 0.068719477, 0.054975581, 0.043980465, 0.035184372, 0.028147498, 0.022517998, 0.018014399, 0.014411519 };
 
 			// 各作品ごとの一致率

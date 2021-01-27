@@ -112,8 +112,11 @@ namespace ComicSuggestionApp
 
 			for (int i = 0; i < comicRanking.Count; i++)
 			{
-				resultLabel.Content += (i + 1).ToString() + "位！ " + comicRanking[i].title + "\n";
+				// resultLabel.Content += (i + 1).ToString() + "位！ " + comicRanking[i].title + "\n";
+				resultLabel.Content += comicRanking[i].title + "\n";
 			}
+
+			resultLabel.Content += "\n…とかどうでしょう！";
 		}
 
 		/// <summary>

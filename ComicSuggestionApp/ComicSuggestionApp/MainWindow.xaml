@@ -11,13 +11,14 @@
 		<Label Content="どんな漫画が読みたい？" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0" FontSize="24"/>
 
 		<Label x:Name="DBStatus" Content="現在のデータベース登録数: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
-		
+
 		<TextBox x:Name="inputTextBox" HorizontalAlignment="Left" Height="157" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="921" Margin="258,84,0,0" FontSize="24"/>
 		<Button x:Name="suggestButton" Content="サジェスト！" HorizontalAlignment="Left" VerticalAlignment="Top" Width="196" Margin="545,246,0,0" Height="52" FontSize="36" Click="suggestButton_Click"/>
-		
+
 		<Label Content="あなたへのおすすめ漫画は…" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,320,0,0" FontSize="24"/>
 		<Label x:Name="resultLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,367,0,0" FontSize="24"/>
-		
+		<Image x:Name="helpButtton" Source="Resources/help.png" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="30" Margin="1184,84,0,0" MouseDown="helpButtton_MouseDown"/>
+
 
 	</Grid>
 </Window>

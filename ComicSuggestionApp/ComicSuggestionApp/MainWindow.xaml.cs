@@ -208,5 +208,10 @@ namespace ComicSuggestionApp
 				return list.ToArray();
 			}
 		}
+
+		private void helpButtton_MouseDown(object sender, MouseButtonEventArgs e)
+		{
+			MessageBox.Show("読みたい漫画のイメージを入力してください！\n例: 恋愛もの読みたい、かわいい感じの！あと新婚カップルとかマジ好き！");
+		}
 	}
 }

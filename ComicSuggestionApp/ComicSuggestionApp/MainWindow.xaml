@@ -18,6 +18,7 @@
 		<Label Content="あなたへのおすすめ漫画は…" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,320,0,0" FontSize="24"/>
 		<Label x:Name="resultLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,367,0,0" FontSize="24"/>
 		<Image x:Name="helpButtton" Source="Resources/help.png" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="30" Margin="1184,84,0,0" MouseDown="helpButtton_MouseDown"/>
+		<Button x:Name="addDBButton" Content="データベース登録" HorizontalAlignment="Left" VerticalAlignment="Top" Width="86" Margin="10,36,0,0" Click="addDBButton_Click"/>
 
 
 	</Grid>

@@ -12,3 +12,5 @@ C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\C
 C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp.csproj.GenerateResource.cache
 C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp.exe
 C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\ComicSuggestionApp.pdb
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\addDB.g.cs
+C:\GitRepos\ComicSuggestionApp\ComicSuggestionApp\ComicSuggestionApp\obj\Debug\addDB.baml
